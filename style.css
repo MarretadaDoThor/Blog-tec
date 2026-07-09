@@ -4,15 +4,18 @@ header{
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    padding: 16px;
 }
+
+ h1{
+    color: #ffff;
+ }
 
 main{
     background-color: #ffff;
     color: #183c63;
     max-width: 800px;
     margin: 0 auto;
-    padding: 16px;
+    text-align: center;
 }
 
     img{
